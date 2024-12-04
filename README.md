@@ -153,6 +153,8 @@ def download_all_faces(frame_dir, local_path):
    - Execute the provided script in Colab.
 4. **Download Results**:
    - Results are saved as a CSV and face images are provided as a zipped file.
+5. **Access the notebook form here**:
+   - https://colab.research.google.com/drive/1-4IjnQ6qhT0ki-v9CMlYUx3g6gBWdCJg?usp=sharing
 
 ---
 
