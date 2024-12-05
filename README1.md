@@ -1,4 +1,4 @@
-```markdown
+
 # Influencer Performance Analysis and Face Detection System
 
 This project involves analyzing influencer performance metrics from videos. The process integrates video downloading, face detection, and performance linking using a CSV input. The repository includes scripts for data processing, visualization, and generating reports in HTML format. The following sections describe each step and function in detail.
@@ -17,8 +17,6 @@ This project involves analyzing influencer performance metrics from videos. The 
 4. [Execution Steps](#execution-steps)
 5. [Sample Output](#sample-output)
 6. [Future Enhancements](#future-enhancements)
-
----
 
 ## Setup and Requirements
 
